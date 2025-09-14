@@ -1,0 +1,5 @@
+project_name: "OECD Real Wage Erosion (Minimal)"
+default_contract_month: 1
+notes: |
+  Bu yapılandırma şu an kod tarafından doğrudan okunmuyor (minimal tutmak için).
+  Gelecekte argparse yerine YAML tabanlı genişletme yapabilirsin.

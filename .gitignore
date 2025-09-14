@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.build/
+env/
+venv/
+.venv/
+.python-version
+
+# Data / Outputs
+output/*.csv
+*.xlsx
+*.xls
+*.docx
+*.pdf
+
+# Jupyter / misc
+.ipynb_checkpoints/
+.DS_Store
